@@ -1,0 +1,4 @@
+interface:
+  display_name: "Feynman Explainer"
+  short_description: "Explain topics in clear Feynman style"
+  default_prompt: "Use $feynman-explainer to explain this topic in plain language."
